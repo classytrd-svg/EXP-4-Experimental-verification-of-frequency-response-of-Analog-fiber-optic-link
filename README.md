@@ -1,5 +1,5 @@
 
-# Exp 4 Experimental verification of frequency response of Analog fiber optic link
+# Exp 4 Experimental verification of frequency response of analog fiber optic link
 # Fiber Optic Link Analysis (660nm)
 
 ## AIM
@@ -63,30 +63,15 @@ current flows through its emitter generating the voltage across the resistance c
 
 <img width="721" height="292" alt="image" src="https://github.com/user-attachments/assets/599d4fcc-b1e2-45fb-a98d-5f833cade038" />
 
-
----
-
-## BLOCK DIAGR
-
-
----
-
-
 ## TABULATION  
 **Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
-
----
+<img width="1198" height="1280" alt="image" src="https://github.com/user-attachments/assets/d5f46cac-77af-4674-80dd-3853023919cb" />
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
-
----
+<img width="1280" height="1172" alt="image" src="https://github.com/user-attachments/assets/a4bb1cd4-4869-400b-8339-46fb53302a29" />
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+frequency response of analog fiber optic link is verified
